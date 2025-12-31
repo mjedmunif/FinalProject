@@ -66,18 +66,17 @@
 > Fill these with the real names/keys you used in `application.properties` or env.
 
 - **JWT**
-  - `JWT_SECRET` = [Fill]
-  - `JWT_TTL_SECONDS` = [Fill]
+  - `JWT_SECRET` = CHANGE_ME_TO_A_LONG_RANDOM_SECRET
+  - `JWT_TTL_SECONDS` = [3600]
 - **n8n**
-  - `N8N_WEBHOOK_URL` = [Fill]
+  - `N8N_WEBHOOK_URL` = [[Fill](https://sijal.app.n8n.cloud/workflow/pauA38yBNBBvbj6d)]
 - **OpenAI**
-  - `OPENAI_API_KEY` = [Fill]
+  - `OPENAI_API_KEY` = [************]
 - **Email**
-  - `MAIL_HOST` = [Fill]
-  - `MAIL_PORT` = [Fill]
-  - `MAIL_USERNAME` = [Fill]
-  - `MAIL_PASSWORD` = [Fill]
-  - `MAIL_FROM` = [Fill]
+  - `MAIL_HOST` = [smtp.gmail.com]
+  - `MAIL_PORT` = [587]
+  - `MAIL_USERNAME` = [sijal.website@gmail.com]
+  - `MAIL_PASSWORD` = [*************]
 
 ---
 
